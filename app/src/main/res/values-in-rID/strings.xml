@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="nama_activity1">Ini Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragment</string>
+    <string name="main_tab_nowplaying">Sedang Tayang</string>
+    <string name="main_tab_upcoming">Mendatang</string>
+    <string name="button_search">Cari</string>
+    <string name="title_search_hint">Judul</string>
+    <string name="desc_poster">Gambar Poster</string>
+    <string name="button_detail">Detail</string>
+    <string name="button_share">Bagikan</string>
+    <string name="share_using">Dibagikan menggunakan</string>
+    <string name="main_menu_setting">Pengaturan Bahasa</string>
+    <string name="main_tab_favourite">Favorit</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Catalogue Movies</string>
+    <string name="nama_activity1">This Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragment</string>
+    <string name="main_tab_nowplaying">Now Playing</string>
+    <string name="main_tab_upcoming">Upcoming</string>
+    <string name="button_search">Search</string>
+    <string name="title_search_hint">Title</string>
+    <string name="desc_poster">Poster</string>
+    <string name="button_detail">Detail</string>
+    <string name="button_share">Share</string>
+    <string name="share_using">Share with</string>
+    <string name="main_menu_setting">Language Setting</string>
+    <string name="main_tab_favourite">Favourite</string>
+</resources>
